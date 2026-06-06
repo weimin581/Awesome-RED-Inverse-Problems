@@ -19,7 +19,7 @@ Before diving into the papers, here is the quick evolutionary trajectory of the 
 ### 📚 Publications (First Author)
 | Year | Title | Venue | Link |
 | :--- | :--- | :--- | :--- |
-| 2017 | *The Little Engine That Could: Regularization by Denoising (RED)* |SIAM journal on imaging sciences(CCF-B)| [📄 PDF](https://epubs.siam.org/doi/abs/10.1137/16M1102884) |
+| 2017 | *The Little Engine That Could: Regularization by Denoising (RED)* |SIAM journal on imaging sciences| [📄 PDF](https://epubs.siam.org/doi/abs/10.1137/16M1102884) |
 | 2026 | *Net2Net: A Dual-Network Prior Framework for Image Restoration via Regularization by Denoising* |Neural Networks(CCF-B)-UR| [📄 PDF](https://arxiv.org/pdf/2510.02733) |
 | 2025 | *Image restoration driven by dual-scale prior* | Neural Networks(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0893608025010184) |
 | 2025 | *Guided image filtering-conventional to deep models: A review and evaluation study* | Computer Vision and Image Understanding(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S1077314225000013) |
