@@ -4,19 +4,9 @@ A curated list of awesome papers, codes, and resources focusing on the evolution
 
 ---
 
-## 📌 Technical Roadmap & Evolution Tree
-
-Before diving into the papers, here is the quick evolutionary trajectory of the RED paradigm:
-1. **Classical RED (2017)**: Energy-based, strict idealistic assumptions (Jacobian symmetry, homogeneity).
-2. **RED-PRO (2021)**: Fixed-point projection geometric framework, demicontractive operators, unification with PnP.
-3. **Spectral & Pseudo-Contractive RED (2024+)**: Relaxes boundaries via holomorphic calculus, maximizing deep network expressiveness.
-4. **Probabilistic & Generative RED (2025+)**: Bayesian Langevin sampling, unquantified uncertainty, and multi-scale Diffusion extensions.
-
----
-
 ## 📚 Milestone Literature & Chronology
 
-### 📚 Publications (First Author)
+### 📚 Publications
 | Year | Title | Venue | Link |
 | :--- | :--- | :--- | :--- |
 | 2017 | *The Little Engine That Could: Regularization by Denoising (RED)* |SIAM journal on imaging sciences| [📄 PDF](https://epubs.siam.org/doi/abs/10.1137/16M1102884) |
