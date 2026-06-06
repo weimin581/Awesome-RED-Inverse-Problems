@@ -16,6 +16,20 @@ Before diving into the papers, here is the quick evolutionary trajectory of the 
 
 ## 📚 Milestone Literature & Chronology
 
+### 📚 Publications (First Author)
+| Year | Title | Venue | Link |
+| :--- | :--- | :--- | :--- |
+| 2026 | *Dual-Domain Regularization by Denoising: Taming Spectral Bias in Unsupervised Image Restoration* |Pattern Recognition(CCF-B)-UR| [📄 PDF] |
+| 2026 | *Net2Net: A Dual-Network Prior Framework for Image Restoration via Regularization by Denoising* |Neural Networks(CCF-B)-UR| [📄 PDF](https://arxiv.org/pdf/2510.02733) |
+| 2025 | *Image restoration driven by dual-scale prior* | Neural Networks(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0893608025010184) |
+| 2025 | *Guided image filtering-conventional to deep models: A review and evaluation study* | Computer Vision and Image Understanding(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S1077314225000013) |
+| 2024 | *Weighted side-window based gradient guided image filtering* | Pattern Recognition(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0031320323007033) |
+| 2024 | *Simultaneous image denoising and completion through convolutional sparse representation and nonlocal self-similarity* | Computer Vision and Image Understanding(CCF-B)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S1077314224002972) |
+| 2024 | *Mixed degradation image restoration via deep image prior empowered by deep denoising engine* | International Joint Conference on Neural Networks (IJCNN)(CCF-C)| [📄 PDF](https://ieeexplore.ieee.org/document/10650215) |
+| 2023 | *Guided image filtering: A survey and evaluation study* | Proceedings of the 5th ACM International Conference on Multimedia in Asia Workshops| [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3611380.3629544) |
+| 2021 | *Efficient local stereo matching algorithm based on fast gradient domain guided image filtering* | Signal Processing: Image Communication(CCF-C)| [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0923596521001181) |
+| 2019 | *Sgm-based disparity estimation under radiometric variations* | Chinese Conference on Image and Graphics Technologies| [📄 PDF](https://link.springer.com/chapter/10.1007/978-981-13-9917-6_37) |
+
 ### 🌟 Phase 1: The Dawn of RED (Energy-Based Foundations)
 *The foundational era that established explicit objective functions using denoising residuals.*
 
