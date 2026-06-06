@@ -1,5 +1,3 @@
-# Awesome-RED-Inverse-Problems
-
 # Awesome Regularization-by-Denoising (RED) for Inverse Problems 🚀
 
 A curated list of awesome papers, codes, and resources focusing on the evolution of **Regularization by Denoising (RED)** frameworks—from classical energy-based methods to modern operator topologies (RED-PRO, Pseudo-Contractive) and generative diffusion priors in imaging inverse problems.
