@@ -10,6 +10,7 @@ A curated list of awesome papers, codes, and resources focusing on the evolution
 | Year | Title | Venue | Link |
 | :--- | :--- | :--- | :--- |
 | 2017 | *The Little Engine That Could: Regularization by Denoising (RED)* |SIAM journal on imaging sciences| [📄 PDF](https://epubs.siam.org/doi/abs/10.1137/16M1102884) |
+| 2019 | *Regularization by Denoising: Clarifications and New Interpretations* |SIAM journal on imaging sciences| [📄 PDF](https://ieeexplore.ieee.org/document/8528509) |
 | 2021 | *Regularization by Denoising via Fixed-Point Projection (RED-PRO)* |SIAM journal on imaging sciences| [📄 PDF](https://epubs.siam.org/doi/abs/10.1137/20M1337168) |
 
 
