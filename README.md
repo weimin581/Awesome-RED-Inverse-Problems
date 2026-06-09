@@ -14,7 +14,7 @@ A curated list of awesome papers, codes, and resources focusing on the evolution
 | 2019 | *Block Coordinate Regularization by Denoising* |Advances in neural information processing systems| [📄 PDF](https://proceedings.neurips.cc/paper/2019/file/9872ed9fc22fc182d371c3e9ed316094-Paper.pdf) |
 | 2021 | *Regularization by Denoising via Fixed-Point Projection (RED-PRO)* |SIAM journal on imaging sciences| [📄 PDF](https://epubs.siam.org/doi/abs/10.1137/20M1337168) |
 | 2021 | *Async-RED: A provably convergent asynchronous block parallel stochastic method using deep denoising priors* |International Conference on Learning Representations (ICLR)| [📄 PDF](https://arxiv.org/pdf/2010.01446#page=1.00&gsr=0) |
-| 2024 | *A variational perspective on solving inverse problems with diffusion models* |International Conference on Learning Representations| [📄 PDF](https://proceedings.iclr.cc/paper_files/paper/2024/file/7711026951f3dc3afb2be427bf98bc73-Paper-Conference.pdf) |
+| 2024 | *RED-Diff: A variational perspective on solving inverse problems with diffusion models* |International Conference on Learning Representations| [📄 PDF](https://proceedings.iclr.cc/paper_files/paper/2024/file/7711026951f3dc3afb2be427bf98bc73-Paper-Conference.pdf) |
 | 2025 | *Regularization by Denoising: Bayesian Model and Langevin-Within-Split Gibbs Sampling* |IEEE Transactions on Image Processing| [📄 PDF](https://arxiv.org/pdf/2402.12292) |
 
 
